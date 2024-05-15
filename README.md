@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+## Preview
+
+<div style="display: flex; justify-content: center;">
+    <img src="preview/video.gif" alt="preview video" width="300" height="630">
+</div>
+
+> ### More about it in the telegram: https://t.me/s/khusanboyscodes
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
